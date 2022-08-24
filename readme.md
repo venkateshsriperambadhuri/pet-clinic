@@ -14,7 +14,6 @@ The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggre
 
 [See the presentation here](http://fr.slideshare.net/AntoineRey/spring-framework-petclinic-sample-application) (2017 update)
 
-## Running petclinic locally
 
 ### With Maven command line
 ```
