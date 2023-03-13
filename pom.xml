@@ -462,6 +462,13 @@
 
         </plugins>
     </build>
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-35-29.ap-northeast-1.compute.internal-releases</name>
+        <url>http://13.231.169.26:8081/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
 
     <profiles>
         <profile>
