@@ -462,12 +462,12 @@
 
         </plugins>
     </build>
-    <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-35-29.ap-northeast-1.compute.internal-releases</name>
-        <url>http://54.150.134.95:8082/artifactory/libs-snapshot-local</url>
-    </repository>
+   <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-35-29.ap-northeast-1.compute.internal-snapshots</name>
+        <url>http://54.150.134.95:8081/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
 </distributionManagement>
 
     <profiles>
