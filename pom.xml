@@ -466,7 +466,7 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-35-29.ap-northeast-1.compute.internal-releases</name>
-        <url>http://54.150.134.95:8082/artifactory/libs-snapshot-local/</url>
+        <url>http://54.150.134.95:8082/artifactory/libs-snapshot</url>
     </repository>
 </distributionManagement>
 
